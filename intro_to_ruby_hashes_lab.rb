@@ -27,7 +27,7 @@ def monopoly_with_third_tier
 			:shortline => {}
 		}
 	}
-  	
+    end	
 end
 
 def monopoly_with_fourth_tier
